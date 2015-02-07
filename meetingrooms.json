@@ -1,100 +1,100 @@
 {
-    "MeetingRooms": [
-	{
-		"name": "dba.dk",
-	    "alias": "dba.dk",
-        "longitude": 10.163716,
-        "latitude": 56.109052,
-	    "altitude": 72.09564208984375,
-		"floor": 1
-	},
-      {
-        "name": "?",
-        "alias": "?",
-        "longitude": 10.163699,
-        "latitude": 56.109022,
-        "altitude": 74.12255859375,
-        "floor": 1
-      },
+  "MeetingRooms": [
     {
-        "name": "Great VIP",
-        "alias": "Great VIP",
-        "longitude": 10.163716,
-        "latitude": 56.109052,
-        "altitude": 74.12255859375,
-		"floor": 0
-    },
-      {
-        "name": "Small VIP",
-        "alias": "Small VIP",
-        "longitude": 10.163699,
-        "latitude": 56.109022,
-        "altitude": 74.12255859375,
-        "floor": 0
-      },
-      {
-        "name": "Game room",
-        "alias": "Game room",
-        "longitude": 10.163109,
-        "latitude": 56.108628,
-        "altitude": 74.12255859375,
-        "floor": 0
-      },
-    {
-        "name": "Reflection room #1",
-        "alias": "Reflection room #1",
-        "longitude": 10.163419,
-        "latitude": 56.108899,
-        "altitude": 67.82769775390625,
-		"floor": 0
+      "name": "Great VIP",
+      "alias": "Great VIP",
+      "longitude": 10.163716,
+      "latitude": 56.109052,
+      "altitude": 74.12255859375,
+      "floor": 0
     },
     {
-        "name": "Reflection room #2",
-        "alias": "Reflection room #2",
-        "longitude": 10.163419,
-        "latitude": 56.108899,
-        "altitude": 67.82769775390625,
-		"floor": 1
+      "name": "Small VIP",
+      "alias": "Small VIP",
+      "longitude": 10.163699,
+      "latitude": 56.109022,
+      "altitude": 74.12255859375,
+      "floor": 0
     },
     {
-        "name": "Bilmarkedet",
-        "alias": "Bilmarkedet",
-        "longitude": 10.163109,
-        "latitude": 56.108628,
-        "altitude": 68.5648193359375,
-		"floor": 1
+      "name": "Reflection room #1",
+      "alias": "Reflection room #1",
+      "longitude": 10.163419,
+      "latitude": 56.108899,
+      "altitude": 67.82769775390625,
+      "floor": 0
     },
-      {
-        "name": "Nemo",
-        "alias": "Nemo",
-        "longitude": 10.16320766763441,
-        "latitude": 56.1086701525564,
-        "altitude": 61.13299560546875,
-        "floor": 0
-      },
-      {
-        "name": "?",
-        "alias": "?",
-        "longitude": 10.163174,
-        "latitude": 56.108649,
-        "altitude": 61.13299560546875,
-        "floor": 0
-      },
     {
-    	"name": "Mascus",
-    	"alias": "Mascus",
-    	"longitude": 10.16320766763441,
-    	"latitude": 56.1086701525564,
-    	"altitude": 61.13299560546875,
-		"floor": 0
-	},
-      {
-        "name": "EngrosFaxen",
-        "alias": "EngrosFaxen",
-        "longitude": 10.163174,
-        "latitude": 56.108649,
-        "altitude": 61.13299560546875,
-        "floor": 0
-      }
-    ]
+      "name": "Mascus",
+      "alias": "Mascus",
+      "longitude": 10.16320766763441,
+      "latitude": 56.1086701525564,
+      "altitude": 61.13299560546875,
+      "floor": 0
+    },
+    {
+      "name": "EngrosFaxen",
+      "alias": "EngrosFaxen",
+      "longitude": 10.163174,
+      "latitude": 56.108649,
+      "altitude": 61.13299560546875,
+      "floor": 0
+    },
+    {
+      "name": "Game room",
+      "alias": "Game room",
+      "longitude": 10.163109,
+      "latitude": 56.108628,
+      "altitude": 74.12255859375,
+      "floor": 0
+    },
+    {
+      "name": "dba.dk",
+      "alias": "dba.dk",
+      "longitude": 10.163716,
+      "latitude": 56.109052,
+      "altitude": 72.09564208984375,
+      "floor": 1
+    },
+    {
+      "name": "?",
+      "alias": "?",
+      "longitude": 10.163699,
+      "latitude": 56.109022,
+      "altitude": 74.12255859375,
+      "floor": 1
+    },
+    {
+      "name": "Reflection room #2",
+      "alias": "Reflection room #2",
+      "longitude": 10.163419,
+      "latitude": 56.108899,
+      "altitude": 67.82769775390625,
+      "floor": 1
+    },
+    {
+      "name": "Nemo",
+      "alias": "Nemo",
+      "longitude": 10.16320766763441,
+      "latitude": 56.1086701525564,
+      "altitude": 61.13299560546875,
+      "floor": 1
+    },
+    {
+      "name": "?",
+      "alias": "?",
+      "longitude": 10.163174,
+      "latitude": 56.108649,
+      "altitude": 61.13299560546875,
+      "floor": 1
+    },
+    {
+      "name": "Bilmarkedet",
+      "alias": "Bilmarkedet",
+      "longitude": 10.163109,
+      "latitude": 56.108628,
+      "altitude": 68.5648193359375,
+      "floor": 1
+    },
+  ]
 }
