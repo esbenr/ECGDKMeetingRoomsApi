@@ -57,8 +57,16 @@
       "floor": 1
     },
     {
-      "name": "?",
-      "alias": "?",
+      "name": "Den Blå Avis",
+      "alias": "Den Blå Avis",
+      "longitude": 10.163699,
+      "latitude": 56.109022,
+      "altitude": 74.12255859375,
+      "floor": 1
+    },
+    {
+      "name": "BilInfo",
+      "alias": "BilInfo",
       "longitude": 10.163699,
       "latitude": 56.109022,
       "altitude": 74.12255859375,
@@ -81,8 +89,8 @@
       "floor": 1
     },
     {
-      "name": "?",
-      "alias": "?",
+      "name": "BilBasen",
+      "alias": "BilBasen",
       "longitude": 10.163174,
       "latitude": 56.108649,
       "altitude": 61.13299560546875,
