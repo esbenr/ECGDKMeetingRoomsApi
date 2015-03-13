@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>TR7A33QWD3.ecg.dk.employee</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Meeting rooms</string>
+				<string>eBay DK Meeting rooms</string>
 			</dict>
 		</dict>
 	</array>
