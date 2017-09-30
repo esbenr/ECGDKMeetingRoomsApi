@@ -13,17 +13,29 @@
 					<key>url</key>
 					<string>https://github.com/esbenr/ECGDKMeetingRoomsApi/raw/master/distribution/meetingrooms.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://github.com/esbenr/ECGDKMeetingRoomsApi/raw/master/distribution/icon57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/esbenr/ECGDKMeetingRoomsApi/raw/master/distribution/icon512.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>TR7A33QWD3.ecg.dk.employee</string>
+				<string>ecg.dk.meetingrooms</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>eBay DK Meeting rooms</string>
+				<string>MeetingRooms</string>
 			</dict>
 		</dict>
 	</array>
