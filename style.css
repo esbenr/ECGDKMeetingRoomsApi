@@ -1,10 +1,11 @@
 body {
 	padding: 10px;
 	font-family: Verdana;
+	font-size: 13px;
 }
 
 .heading {
-	font-size: 50px;
+	font-size: 40px;
 }
 
 .button {
@@ -20,4 +21,10 @@ body {
 
 .center {
 	text-align: center;
+}
+
+.quote {
+	font-style: italic;
+	font-size: 11px;
+	color: #999999;
 }
