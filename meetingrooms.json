@@ -6,7 +6,8 @@
       "longitude": 10.163400,
       "latitude": 56.108825,
       "altitude": 74.12255859375,
-      "floor": 1
+      "floor": 1,
+      "pax": 40
     },
     {
       "name": "Great VIP",
@@ -14,7 +15,8 @@
       "longitude": 10.163716,
       "latitude": 56.109052,
       "altitude": 61.13299560546875,
-      "floor": 0
+      "floor": 0,
+      "pax": 16
     },
     {
       "name": "Small VIP",
@@ -22,7 +24,8 @@
       "longitude": 10.163699,
       "latitude": 56.109022,
       "altitude": 61.13299560546875,
-      "floor": 0
+      "floor": 0,
+      "pax": 8
     },
     {
       "name": "Reflection room 1",
@@ -30,7 +33,8 @@
       "longitude": 10.163419,
       "latitude": 56.108899,
       "altitude": 61.13299560546875,
-      "floor": 0
+      "floor": 0,
+      "pax": 2
     },
     {
       "name": "Mascus",
@@ -38,7 +42,8 @@
       "longitude": 10.16320766763441,
       "latitude": 56.1086701525564,
       "altitude": 61.13299560546875,
-      "floor": 0
+      "floor": 0,
+      "pax": 8
     },
     {
       "name": "EngrosFaxen",
@@ -46,7 +51,8 @@
       "longitude": 10.163174,
       "latitude": 56.108649,
       "altitude": 61.13299560546875,
-      "floor": 0
+      "floor": 0,
+      "pax": 8
     },
     {
       "name": "Game room",
@@ -54,7 +60,8 @@
       "longitude": 10.163109,
       "latitude": 56.108628,
       "altitude": 61.13299560546875,
-      "floor": 0
+      "floor": 0,
+      "pax": 16
     },
     {
       "name": "dba.dk",
@@ -62,7 +69,8 @@
       "longitude": 10.163716,
       "latitude": 56.109052,
       "altitude": 74.12255859375,
-      "floor": 1
+      "floor": 1,
+      "pax": 16
     },
     {
       "name": "Den Blå Avis",
@@ -70,7 +78,8 @@
       "longitude": 10.163699,
       "latitude": 56.109022,
       "altitude": 74.12255859375,
-      "floor": 1
+      "floor": 1,
+      "pax": 8
     },
     {
       "name": "Bilinfo",
@@ -78,7 +87,8 @@
       "longitude": 10.163660,
       "latitude": 56.109000,
       "altitude": 74.12255859375,
-      "floor": 1
+      "floor": 1,
+      "pax": 8
     },
     {
       "name": "Reflection room 2",
@@ -86,7 +96,8 @@
       "longitude": 10.163419,
       "latitude": 56.108899,
       "altitude": 74.12255859375,
-      "floor": 1
+      "floor": 1,
+      "pax": 2
     },
     {
       "name": "NEMO",
@@ -94,7 +105,8 @@
       "longitude": 10.16320766763441,
       "latitude": 56.1086701525564,
       "altitude": 74.12255859375,
-      "floor": 1
+      "floor": 1,
+      "pax": 8
     },
     {
       "name": "BilBasen",
@@ -102,7 +114,8 @@
       "longitude": 10.163174,
       "latitude": 56.108649,
       "altitude": 74.12255859375,
-      "floor": 1
+      "floor": 1,
+      "pax": 8
     },
     {
       "name": "Bil Markedet",
@@ -110,7 +123,8 @@
       "longitude": 10.163109,
       "latitude": 56.108628,
       "altitude": 74.12255859375,
-      "floor": 1
+      "floor": 1,
+      "pax": 16
     }
   ]
 }
